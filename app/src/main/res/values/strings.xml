@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BuaKeoBao</string>
+    <string name="description">Oản Tù Xì ra cái gì?</string>
+    <string name="reset">Chơi lại</string>
+    <string name="game_name">Oản Tù Xì</string>
+    <string name="random">Máy chọn</string>
+    <string name="exit">Thoát</string>
+</resources>
